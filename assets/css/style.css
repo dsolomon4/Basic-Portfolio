@@ -1,8 +1,9 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     /* link to background image is not working??*/
-    background-image: url("assets/images/about me profile.jpg")
-    background-color: red; 
+    background-image: url("../images/gravel.jpg");
+    background-size: auto;
+
 }
 
 header {
@@ -43,15 +44,15 @@ h1 {
 
 section {
     width: 960px;
-    margin: 0px 0px 0px 150px;
-    /* change color*/
-    background: rgb(126, 230, 41);
+    margin: auto;
+    padding: 10px;
+    background: #fff;
 
   }
 
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-
+    margin: 15px
 }
 
 .nav-links{
